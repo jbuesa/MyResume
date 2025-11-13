@@ -1,0 +1,57 @@
+.rounded-square {
+    border-radius: 0 20%
+}
+
+.bold {
+    font-weight: bold;
+}
+
+#content-2 {
+    color:bisque;
+    margin-top: -275px;
+    background-color: rgb(40, 36, 20);
+}
+
+#content-1 {
+    background-image: url('./images/header-img.png');
+        background-repeat: repeat;
+        /* Prevents image repetition */
+        background-size:auto;
+        /* Scales the image to cover the entire area */
+    background-color: antiquewhite;
+}
+
+#content-3 {
+    background-color: antiquewhite;
+    background-image: url('./images/header-img.png');
+        background-repeat: repeat;
+        /* Prevents image repetition */
+        background-size: auto;
+        
+}
+
+#content-4 {
+    background-color: rgb(40, 36, 20);
+}
+
+.tile {
+    background-color: rgb(40, 36, 20);
+}
+
+.light-text {
+    color: bisque;
+}
+
+.dark-text {
+    color: rgb(40, 36, 20);
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+a:hover {
+    text-decoration: none;
+    color: inherit;
+}
